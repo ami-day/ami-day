@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ami</h1>
 
-![alt text](https://github.com/ami-day/ami-day/blob/main/avatar.jpeg?raw=true)
+<img src="https://github.com/ami-day/ami-day/blob/main/avatar.jpeg?raw=true" alt="drawing" style="width:50px;"/>
 
 - 🌱 I’m currently learning **JavaScript, React, React Native**
 
