@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ami</h1>
 <h3 align="center">A passionate software engineering student from the UK</h3>
 
+![avatar]()
+
 - 🌱 I’m currently learning **JavaScript, React, React Native**
 
 <h3 align="left">Tech Stack</h3>
