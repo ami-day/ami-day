@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ami</h1>
-<h3 align="center">A passionate software engineering student from the UK</h3>
 
 ![alt text](https://github.com/ami-day/ami-day/blob/main/avatar.jpeg?raw=true)
 
