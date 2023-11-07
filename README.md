@@ -4,7 +4,7 @@
 <img align="center" src="https://github.com/ami-day/ami-day/blob/main/avatar.jpg?raw=true" alt="drawing" width="200" height="200" style="border: 2px solid  gray; border-radius:15px"/>
 </p>
 
-- 🌱 I’m currently learning **JavaScript, React, React Native**
+- 🌱 I’m currently learning **Java**
 
 <h3 align="left">Tech Stack</h3>
 
